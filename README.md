@@ -7,6 +7,9 @@ raylib is highly inspired by Borland BGI graphics lib and by XNA framework and i
 *NOTE for ADVENTURERS: raylib is a programming library to enjoy videogames programming; no fancy interface, no visual helpers, no debug button... just coding in the most pure spartan-programmers way.*
 
 Ready to learn? Jump to [code examples!](https://www.raylib.com/examples.html)
+[wow](https://househou.se/)
+[shaders](https://reshade.me/)
+
 
 ---
 
