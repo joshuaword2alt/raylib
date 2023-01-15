@@ -10,7 +10,6 @@ Ready to learn? Jump to [code examples!](https://www.raylib.com/examples.html)
 [wow](https://househou.se/)
 [shaders](https://reshade.me/)
 
-
 ---
 
 <br>
