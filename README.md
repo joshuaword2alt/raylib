@@ -10,6 +10,7 @@ Ready to learn? Jump to [code examples!](https://www.raylib.com/examples.html)
 [wow](https://nova.app/)
 [shaders](https://reshade.me/)
 [ok](https://github.com/joshuaword2alt/reapack)
+[ok2](https://colab.research.google.com/drive/1zb1ox2wO4Y8AMrWbgFsoFi0K0UQacUz-)
 ---
 
 <br>
