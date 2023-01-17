@@ -13,6 +13,10 @@ Ready to learn? Jump to [code examples!](https://www.raylib.com/examples.html)
 [ok2](https://colab.research.google.com/drive/1zb1ox2wO4Y8AMrWbgFsoFi0K0UQacUz-)
 [ok3](https://github.com/joshuaword2alt/opencubicplayer)
 [ok4](https://github.com/joshuaword2alt/reapack)
+[ok5](https://www.a1k0n.net/code/jsxm/)
+[ok6](https://98jsorg.neocities.org/programs/command/)
+[archlinux](https://archive.org/details/archlinux_pkg_raylib)
+
 ---
 
 <br>
